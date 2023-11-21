@@ -1,0 +1,48 @@
+{
+    "menu": [
+        {
+            "kategori": "Sepatu",
+            "nama": "Adidad Pulseboost Winter Black",
+            "deskripsi": "Sepatu running yang nyaman dan ringan",
+            "harga": "Rp. 1.000.000",
+            "gambar" : "spatu1.jpeg"
+        
+        },
+        {
+            "kategori": "Sepatu",
+            "nama": "Adidad Pulseboost Winter",
+            "deskripsi": "Sepatu running yang nyaman dan ringan",
+            "harga": "Rp. 1.000.000",
+            "gambar" : "spatu2.jpg"
+        },
+        {
+            "kategori": "Sepatu",
+            "nama": "Adidad Pulseboost Core Black",
+            "deskripsi": "Sepatu running yang nyaman dan ringan",
+            "harga": "Rp. 1.000.000",
+            "gambar" : "spatu3.jpg"
+        },
+        {
+            "kategori": "Sepatu",
+            "nama": "Adidad Pulseboost HD Running",
+            "deskripsi": "Sepatu running yang nyaman dan ringan",
+            "harga": "Rp. 1.000.000",
+            "gambar" : "spatu4.jpg"
+        },
+        {
+            "kategori": "Sepatu",
+            "nama": "Adidad Pulseboost Multicolor",
+            "deskripsi": "Sepatu running yang nyaman dan ringan",
+            "harga": "Rp. 1.000.000",
+            "gambar" : "spatu5.jpg"
+        },
+        {
+            "kategori": "Sepatu",
+            "nama": "Adidad Pulseboost White",
+            "deskripsi": "Sepatu running yang nyaman dan ringan",
+            "harga": "Rp. 1.000.000",
+            "gambar" : "spatu6.jpg"
+        }
+    ]
+    
+}
